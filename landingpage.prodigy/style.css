@@ -1,0 +1,28 @@
+body {
+
+    background-color: #91d4a4;
+}
+
+.navbar {
+    list-style: none;
+}
+
+.nav-link {
+    color: rgb(10, 10, 10);
+
+    /* color: red; */
+}
+
+.row3 {
+    background-color: #f7f1f1;
+    color: black;
+}
+
+.img1 {
+    margin: 5%;
+    
+    height: 100%;
+}
+
+
+
